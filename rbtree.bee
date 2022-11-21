@@ -1,0 +1,12 @@
+Build:
+    Type: Executable
+
+    Src: *.cpp
+
+    Extensions:
+        cpp:
+            Compiler: clang++
+            Flags: -std=c++2a
+
+    Link:
+        Linker: clang++
