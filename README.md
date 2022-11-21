@@ -1,2 +1,2 @@
-# DM_Curse_Work
+# DM-Course-Work
 This is Red-Black tree, more effective way of binary tree.
